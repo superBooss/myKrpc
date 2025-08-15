@@ -1,0 +1,10 @@
+/home/ubuntu/desktop/krpc/mykrpc/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/src/CMakeFiles/mprpc.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/src/CMakeFiles/edit_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/example/CMakeFiles/edit_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/example/Callee/CMakeFiles/provider.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/example/Callee/CMakeFiles/edit_cache.dir
+/home/ubuntu/desktop/krpc/mykrpc/build/example/Callee/CMakeFiles/rebuild_cache.dir
